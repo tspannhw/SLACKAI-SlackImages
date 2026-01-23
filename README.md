@@ -21,6 +21,27 @@ CALL "DEMO"."DEMO"."ANALYZESLACKIMAGE"('${filename}','${filename}','${videoid}')
 <img width="2073" height="1111" alt="image" src="https://github.com/user-attachments/assets/3bc9cc19-72fc-4ab5-b6a0-18d885f54b6c" />
 
 
+<img width="960" height="867" alt="image" src="https://github.com/user-attachments/assets/0431c97d-c4dc-4f83-8fd4-5be06b31f345" />
+
+<img width="1187" height="1146" alt="image" src="https://github.com/user-attachments/assets/9c6b06e2-7625-4ede-8ead-31c825b9e3bd" />
+
+
+<img width="1214" height="870" alt="image" src="https://github.com/user-attachments/assets/0a98a698-af68-47d4-b3e9-aa442c6d3298" />
+
+<img width="651" height="858" alt="image" src="https://github.com/user-attachments/assets/c98b4002-b6f0-4df8-974e-3c7441a77184" />
+
+
+<img width="683" height="778" alt="image" src="https://github.com/user-attachments/assets/081939f4-725d-4110-ac28-9c8b8ceaccd1" />
+
+<img width="1939" height="1047" alt="image" src="https://github.com/user-attachments/assets/494399d3-7f55-4de3-9ab6-b1c917d32eb4" />
+
+<img width="1834" height="434" alt="image" src="https://github.com/user-attachments/assets/25dbef6f-4525-4775-9013-94f657870255" />
+
+
+
+
+
+
 
 
 #### Adding Geo Coding 

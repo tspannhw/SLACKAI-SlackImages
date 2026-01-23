@@ -42,17 +42,7 @@ CALL "DEMO"."DEMO"."ANALYZESLACKIMAGE"('${filename}','${filename}','${videoid}')
 
 <img width="1730" height="1057" alt="image" src="https://github.com/user-attachments/assets/f8a35d92-a380-4d31-8f78-0804f59543e7" />
 
-<img width="1800" height="1211" alt="image" src="https://github.com/user-attachments/assets/10c9e4d3-cc96-452c-b3d6-8e89d22e34f6" />
 
-<img width="1664" height="1142" alt="image" src="https://github.com/user-attachments/assets/790a88d4-db66-40b0-8ed9-9f5265e60f7f" />
-
-
-<img width="2471" height="1215" alt="image" src="https://github.com/user-attachments/assets/f8024d94-5ca0-428a-930b-1fee3b3960ec" />
-
-<img width="931" height="1072" alt="image" src="https://github.com/user-attachments/assets/9c63ff3b-a625-4011-a832-1e3ff46f3cd0" />
-
-
-<img width="1846" height="772" alt="image" src="https://github.com/user-attachments/assets/10bce044-096a-4dd9-83fb-dec78b2676c3" />
 
 
 

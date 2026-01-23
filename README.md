@@ -12,6 +12,15 @@ CALL "DEMO"."DEMO"."ANALYZESLACKIMAGE"('${filename}','${filename}','${videoid}')
 
 ````
 
+<img width="1125" height="907" alt="image" src="https://github.com/user-attachments/assets/032d88d0-9cb1-4678-afb2-54963a8152d6" />
+
+<img width="1647" height="880" alt="image" src="https://github.com/user-attachments/assets/f4cceed6-07c6-4e85-8a5e-7ccc24fd2072" />
+
+<img width="1707" height="1135" alt="image" src="https://github.com/user-attachments/assets/d8049b85-188c-49e8-bbc9-194974bf7902" />
+
+<img width="2073" height="1111" alt="image" src="https://github.com/user-attachments/assets/3bc9cc19-72fc-4ab5-b6a0-18d885f54b6c" />
+
+
 
 
 #### Adding Geo Coding 

@@ -113,7 +113,7 @@ $$;
 
 
 -- Test with a single address
-SELECT get_lat_long('115 morrison ave, hightstown, nj 08520');
+SELECT get_lat_long('100 Main Street, New York, NY 10010');
 
 
 ````
